@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e423d1c3-ddac-4526-be42-d83c9f54cc73" name="Default Changelist" comment="" />
+    <list default="true" id="e423d1c3-ddac-4526-be42-d83c9f54cc73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Uptyjkh1cpBjSJREZ5b8ZcSD5I" />
   <component name="ProjectViewState">
@@ -15,7 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -49,9 +61,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="348" y="147" key="SettingsEditor" timestamp="1576066319647">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576304574680">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1576304574680" />
+    <state x="273" y="2" key="CommitChangelistDialog2" timestamp="1576317024197">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="273" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1576317024197" />
+    <state x="265" y="78" key="SettingsEditor" timestamp="1576157067785">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="265" y="78" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1576157067784" />
     <state x="348" y="147" key="SettingsEditor/0.0.1680.1010/1680.-27.1920.1040@0.0.1680.1010" timestamp="1576066319647" />
     <state x="496" y="233" key="run.anything.popup" timestamp="1576066023814">
       <screen x="0" y="0" width="1680" height="1010" />

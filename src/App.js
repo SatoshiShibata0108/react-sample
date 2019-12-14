@@ -37,7 +37,7 @@ class App extends Component {
     render() {
             return (
                 <div>
-                    <h1>商品管理</h1>
+                    <h1>アイテム管理</h1>
                     <ItemList items={ this.state.items } />
                 </div>
             );
@@ -53,7 +53,7 @@ class ItemList extends Component {
         return (
             <table>
                 <thead>
-                    <tr><th>ID</th><th>商品名</th><th>値段</th></tr>
+                    <tr><th>ID</th><th>アイテム名</th><th>値段</th></tr>
                 </thead>
                 <tbody>{ itemsMap }</tbody>
             </table>
